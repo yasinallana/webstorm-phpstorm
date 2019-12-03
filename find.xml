@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'client'" />
     <option name="defaultScopeName" value="Project 'client'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'client'" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
