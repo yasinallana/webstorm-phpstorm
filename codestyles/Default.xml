@@ -13,7 +13,6 @@
     <option name="OBJECT_LITERAL_WRAP" value="1" />
     <option name="IMPORTS_WRAP" value="0" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
-    <option name="IMPORT_SORT_MEMBERS" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JSON">
@@ -38,5 +37,8 @@
     <option name="ARRAY_INITIALIZER_WRAP" value="2" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
