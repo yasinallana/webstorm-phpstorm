@@ -6,6 +6,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" updateFilesToCompile="true" useJBChromeExtension="true" />
